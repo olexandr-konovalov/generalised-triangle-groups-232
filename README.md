@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olexandr-konovalov/generalised-triangle-groups-232/HEAD?labpath=gtg232.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olexandr-konovalov/generalised-triangle-groups-232/HEAD)
 
 # generalised-triangle-groups-232
 
