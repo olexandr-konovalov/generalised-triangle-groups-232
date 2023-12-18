@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/olexandr-konovalov/generalised-triangle-groups-232/main?filepath=gtg232.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10401274.svg)](https://doi.org/10.5281/zenodo.10401274)
 
 # generalised-triangle-groups-232
 
